@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11bf5b37-e0b8-42e0-8dcf-dc8c4aefc001",
+    "title": "React Native Mobil Arayüz Tasarımı",
+    "description": "Görev yöneticisinin mobil uygulaması için Expo ve Redux Toolkit kurulumları yapılacak.",
+    "status": "in_progress",
+    "priority": "high",
+    "assigneeId": "e_001",
+    "createdAt": "2026-10-15T09:30:00Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "title": "PostgreSQL Veritabanı Şemalarının Çizimi",
+    "description": "Kullanıcı ve görev tabloları arasındaki ilişkilerin planlanması.",
+    "status": "done",
+    "priority": "medium",
+    "assigneeId": "e_002",
+    "createdAt": "2026-10-14T14:15:00Z"
+  },
+  {
+    "id": "c73bcdcc-2669-4bf6-81d3-e4ae73fb11fd",
+    "title": "Yapay Zeka (RAG) Entegrasyon Testleri",
+    "description": "Gemini API ve MongoDB Atlas vektör aramalarının test edilmesi.",
+    "status": "todo",
+    "priority": "high",
+    "assigneeId": null,
+    "createdAt": "2026-10-17T08:45:00Z"
+  },
+  {
+    "id": "2b84b5f5-ad11-4b4c-a501-dab48a57c5aa",
+    "title": "Kullanıcı Profili Fotoğraf Yükleme Modülü",
+    "description": "Multer middleware kullanılarak kullanıcıların sistem fotoğraflarını yüklemesi ve sunucuda saklanması sağlandı.",
+    "status": "in_progress",
+    "priority": "high",
+    "createdAt": "2026-11-13T13:57:21.057Z",
+    "updatedAt": "2026-11-13T14:00:37.455Z"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e_001",
+    "fullName": "İkra Nur Kurtoğlu",
+    "role": "manager",
+    "email": "ikra.kurtoglu@sirket.com"
+  },
+  {
+    "id": "e_002",
+    "fullName": "Zeynep Kaya",
+    "role": "employee",
+    "email": "zeynep.kaya@sirket.com"
+  },
+  {
+    "id": "e_003",
+    "fullName": "Emre Can",
+    "role": "employee",
+    "email": "emre.can@sirket.com"
+  }
+]
